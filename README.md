@@ -75,14 +75,11 @@
 <h3 align="left">Let's Connect & Collaborate!</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/theahmedhany/" target="_blank">
+<a href="https://www.linkedin.com/in/eyad-osama-37a219250/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45" style="margin-right:6px;"/>
 </a>
-<a href="mailto:a7medhanyshokry@gmail.com" target="_blank">
+<a href="mailto:eyadosama0616@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" width="45" style="margin-right:6px;"/>
-</a>
-<a href="https://x.com/theahmedhany" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="45" style="margin-right:6px;"/>
 </a>
 </p>
 
