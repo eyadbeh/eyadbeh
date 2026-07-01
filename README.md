@@ -27,8 +27,8 @@
 <br clear="both">
 
 <div align="center">
-  <img height="220em" src="https://stats.hyo.dev/api/github-stats-advanced?login=theahmedhany" />
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theahmedhany&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=6&bg_color=26272D" />
+  <img height="220em" src="https://stats.hyo.dev/api/github-stats-advanced?login=eyadbeh" />
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadbeh&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=6&bg_color=26272D" />
 </div>
 
 <br>
