@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img height="450" src="[https://i.redd.it/n8agw6z2smyb1.gif](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)" />
+  <img height="450" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" />
 </div>
 
 <br clear="both">
