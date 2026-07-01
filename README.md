@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&size=22&duration=3000&pause=1000&color=84AE92&center=true&vCenter=true&width=750&lines=%F0%9F%A5%87+Just+Chilling+%26+Building+Code;%F0%9F%A5%87+Welcome+to+My+Dev+Playground" />
 </div>
 
+<br clear="both">
+<br clear="both">
+
 <div align="center">
   <img height="450" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" />
 </div>
@@ -85,9 +88,10 @@
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=45&descAlign=center" />
-</div>
+<p align="center">
+  <img width="100%"
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
 
 <div align="center">
   <sub>Made with ♥️ and lots of ☕️</sub>
