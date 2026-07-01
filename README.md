@@ -39,7 +39,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php" width="45"/>
   <img src="https://skillicons.dev/icons?i=laravel" width="45"/>
-  <img src="https://skillicons.dev/icons?i=codeigniter" width="45"/>
 
   <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
   <img src="https://skillicons.dev/icons?i=express" width="45"/>
@@ -66,7 +65,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
   <img src="https://skillicons.dev/icons?i=linux" width="45"/>
 
-  <img src="https://skillicons.dev/icons?i=figma" width="45"/>
   <img src="https://skillicons.dev/icons?i=wordpress" width="45"/>
 </p>
 
