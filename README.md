@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&pause=1000&center=true&multiline=true&color=D8008F&vCenter=true&width=440&height=70&lines=Software+Engineer;Mobile+Application+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&pause=1000&center=true&multiline=true&color=D8008F&vCenter=true&width=440&height=70&lines=Software+Engineer;Backend+Developer" />
 </div>
 
 <br clear="both">
