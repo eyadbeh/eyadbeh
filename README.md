@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=600&size=28&duration=3000&pause=1200&color=84AE92&center=true&vCenter=true&width=750&lines=Just+Chilling+%26+Building+Code;Welcome+to+My+Dev+Playground" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=600&size=28&duration=3000&pause=1000&color=84AE92&center=true&vCenter=true&width=750&lines=Just+Chilling+%26+Building+Code" />
 </div>
 
 <div align="center">
