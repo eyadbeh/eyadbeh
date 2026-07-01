@@ -37,27 +37,37 @@
 <h3 align="left">Tech Arsenal</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=python" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=dart" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=flutter" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=firebase" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=supabase" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=sqlite" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=html" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=css" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=js" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=git" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=github" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=postman" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=androidstudio" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=linux" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=figma" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=ai" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=ps" width="45" style="margin-right:6px;"/>
-<img src="https://skillicons.dev/icons?i=notion" width="45" style="margin-right:6px;"/>
+  <img src="https://skillicons.dev/icons?i=php" width="45"/>
+  <img src="https://skillicons.dev/icons?i=laravel" width="45"/>
+  <img src="https://skillicons.dev/icons?i=codeigniter" width="45"/>
+
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+  <img src="https://skillicons.dev/icons?i=express" width="45"/>
+
+  <img src="https://skillicons.dev/icons?i=angular" width="45"/>
+  <img src="https://skillicons.dev/icons?i=react" width="45"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="45"/>
+
+  <img src="https://skillicons.dev/icons?i=html" width="45"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
+  <img src="https://skillicons.dev/icons?i=js" width="45"/>
+
+  <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="45"/>
+  <img src="https://skillicons.dev/icons?i=supabase" width="45"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="45"/>
+
+  <img src="https://skillicons.dev/icons?i=docker" width="45"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="45"/>
+
+  <img src="https://skillicons.dev/icons?i=figma" width="45"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" width="45"/>
 </p>
 
 <br>
