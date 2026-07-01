@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&size=22&duration=3000&pause=1000&color=84AE92&center=true&vCenter=true&width=750&lines=%F0%9F%A5%87+Just+Chilling+%26+Building+Code;%F0%9F%A5%87+Welcome+to+My+Dev+Playground" />
 </div>
 
-<br clear="both">
-
 <div align="center">
   <img height="450" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" />
 </div>
