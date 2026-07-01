@@ -1,10 +1,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&size=20&duration=3000&pause=1000&color=84AE92&center=true&vCenter=true&width=850&lines=%F0%9F%A5%87+Just+Chilling+%26+Building+Code" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&size=22&duration=3000&pause=1000&color=84AE92&center=true&vCenter=true&width=750&lines=%F0%9F%A5%87+Just+Chilling+%26+Building+Code;%F0%9F%A5%87+Welcome+to+My+Dev+Playground" />
 </div>
 
