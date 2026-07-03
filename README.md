@@ -14,7 +14,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&pause=1000&center=true&multiline=true&color=D8008F&vCenter=true&width=440&height=70&lines=Software+Engineer;Backend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&pause=1000&center=true&multiline=true&color=D8008F&vCenter=true&width=440&height=70&lines=Software+Engineer" />
 </div>
 
 <br clear="both">
@@ -30,7 +30,8 @@
 <br clear="both">
 
 <div align="center">
-  <img height="220em" src="https://stats.hyo.dev/api/github-stats-advanced?login=eyadbeh" />
+  <a href="https://stats.hyo.dev/stats/eyadbeh"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=eyadbeh" width="600" /></a>
+  <a href="https://stats.hyo.dev/stats/eyadbeh"><img src="https://stats.hyo.dev/api/github-trophies?login=eyadbeh" width="600" /></a>
 </div>
 
 <br>
