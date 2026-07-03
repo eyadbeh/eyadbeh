@@ -31,11 +31,8 @@
 
 <div align="center">
   <a href="https://stats.hyo.dev/stats/eyadbeh"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=eyadbeh" width="600" /></a>
+  <a href="https://stats.hyo.dev/stats/eyadbeh"><img src="https://stats.hyo.dev/api/github-trophies?login=eyadbeh" width="600" /></a>
 </div>
-<br>
-
-<div align="center">
-<a href="https://stats.hyo.dev/stats/eyadbeh"><img src="https://stats.hyo.dev/api/github-trophies?login=eyadbeh" width="600" /></a></div>
 <br>
 
 ---
